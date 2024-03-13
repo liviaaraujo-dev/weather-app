@@ -9,7 +9,7 @@
 
 ## [Descrição do Projeto](#descrição-do-projeto)
 
-O Weather App é um projeto que oferece a pesquisa do clima da cidade, com os dados fornecidos pela API OpenWeather.
+O Weather App é um projeto que oferece a pesquisa do clima da cidade, com os dados fornecidos pela API OpenWeather.<br>
 <https://liviaaraujo-dev.github.io/weather-app/>
 
 ## [Tecnlogias Utilizadas](#tecnologias-utilizadas)
